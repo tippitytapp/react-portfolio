@@ -14,7 +14,7 @@ function Header(){
             <nav>
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
-                <Link to="/resume">Resume</Link>
+                <a href="https://mrmarctapp.com/resume/">Resume</a>
                 <Link to="/recent">Recent Projects</Link>
             </nav>
         </div>
