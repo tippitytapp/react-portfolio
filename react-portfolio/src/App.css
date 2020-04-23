@@ -29,3 +29,12 @@ a{
   text-decoration: none;
   color: black;
 }
+/* Home */
+.homeContainer{
+  display:flex;
+  margin:4%;
+}
+
+.homeImage{
+  border-radius: 30px;
+}
