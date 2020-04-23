@@ -38,3 +38,26 @@ a{
 .homeImage{
   border-radius: 30px;
 }
+
+.essentprojectInfo{
+  display:flex;
+  justify-content: space-evenly;
+}
+.infoP{
+  width: 40%;
+}
+.nasaprojectInfo{
+  display:flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+
+}
+
+.ricknmortyprojectInfo{
+  display:flex;
+  justify-content: space-evenly;
+}
+.btnn{
+  margin-top:1%;
+  margin-bottom: 4%;
+}
