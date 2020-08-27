@@ -25,7 +25,6 @@ function Home() {
       <>
         <div className="homeContainer">
           <div className="writtenContent home">
-
             <p>
               It has always brought me great joy to be able to make peoples
               dreams a reality. And thats why I started this journey into web
@@ -59,6 +58,15 @@ function Home() {
               <iframe
                 className="project"
                 src="https://pokemon-jet.vercel.app"
+                allowFullScreen
+                seamless
+              />
+            </div>
+            <div className="indIframe">
+              <h2 className="title">Game of Life</h2>
+              <iframe
+                className="project"
+                src="https://gameoflife-9rap3q5i7.vercel.app/play"
                 allowFullScreen
                 seamless
               />
